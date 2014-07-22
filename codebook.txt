@@ -1,0 +1,7 @@
+ACTIVITY
+	what the subject was doing at the time of the measurements
+SUBJECT
+	Number for the person that was doing the activity
+Remainining variables are average values per subject per activity across multiple time windows. 
+Therefore mean is an average of means and std is an average of standard deviations.
+see "UCI HAR Dataset/features_info.txt" for information about the individual features. The variable names are almost entirely the same except that the '(' have been replaced by '.'
